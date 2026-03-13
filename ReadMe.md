@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi there, I'm Tú!<br><br>I'm a passionate developer from Vietnam 🇻🇳 who loves coding, exploring documentation, and building useful things with code. Currently, I'm focusing on strengthening my core skills in both frontend and backend technologies, aiming to become a fullstack developer in the near future.
+### 👋 Hi there, I'm Tu!<br><br>I'm a passionate developer from Vietnam 🇻🇳 who loves coding, exploring documentation, and building useful things with code. Currently, I'm focusing on strengthening my core skills in both frontend and backend technologies, aiming to become a fullstack developer in the near future.
 
 
 ## 🌐 Socials:
